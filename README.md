@@ -2,7 +2,10 @@
 
 I like autonomous systems.
 
-![snake animation](https://raw.githubusercontent.com/beyzanurkaya/beyzanurkaya/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beyzanurkaya/beyzanurkaya/output/github-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/beyzanurkaya/beyzanurkaya/output/github-snake.svg" />
+</picture>
 
 
 ## GitHub Streak
